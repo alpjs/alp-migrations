@@ -1,5 +1,7 @@
 # alp-migrations [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/alp-migrations.svg)](https://greenkeeper.io/)
+
 migrations scripts in alp
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
